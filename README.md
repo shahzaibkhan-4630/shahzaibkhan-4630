@@ -16,7 +16,7 @@ Full-stack developer based in Karachi, Pakistan, building production SaaS for re
 
 ## Top Project
 
-**[Invexo Pro](https://accountaxcompliance.com)** — Multi-tenant SaaS for POS, inventory, and FBR compliance, live with paying retail and manufacturing clients since early 2026.
+**[Invexo Pro](https://www.invexopro.com)** — Multi-tenant SaaS for POS, inventory, and FBR compliance, live with paying retail and manufacturing clients since early 2026.
 
 ## Let's Connect
 
